@@ -1,0 +1,20 @@
+zadanie 1
+Pytania:
+1.
+string - bo uzyte do tekstu
+int - bo uzyte do liczby calkowitej
+double - bo uzyte do liczby zmienno przecinkowej
+bool - zmienna sprawdzajaca stan true/false takze jest git
+decimal - bo uzyte do zmiennej zwiazana z finansami wiec sie przyda
+
+2.
+przypisanie, odejmowanie, mnożenie, dzielenie
+
+3.
+Aplikacja Sklep Online ma 150 produktów.
+
+4.
+True, bo srednia powyzej 4.5 oraz jest czyDostepna = true
+
+5.
+bo w obliczeniach finansowych sie przydaje decimal gdzie zaokraglenia sa niedopusczalne i wazna jest precyzja, a ona przechowuje najwieksza liczbe cyfr znaczacych
